@@ -14,6 +14,12 @@ curses interface and allow the users of the Meson build system to
 access all or most of Meson build systems features with minimal effort
 from within the command-line.
 
+## Program Preview
+
+* * *
+
+Please add an image for the user to see.
+
 ## Tooling information
 
 * * *
