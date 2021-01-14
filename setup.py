@@ -19,6 +19,8 @@ if __name__ == '__main__':
             'code'
         ],
         python_requires='>=3.8',
+        install_requires=['meson', 'ninja', 'asciimatics>=1.11.0'],
+        setup_requires=['pytest-runner'],
         entry_points={
             'console_scripts': [
                 'cmeson=code.main:main_prog',
